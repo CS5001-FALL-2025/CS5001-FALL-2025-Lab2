@@ -31,7 +31,10 @@ print("Expected output: 25, Boston")
 print()
 
 # Write your code here:
-
+age = 25
+city = "Boston"
+print(age)
+print(city)
 
 
 
